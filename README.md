@@ -4,7 +4,7 @@ Centos7 Vagrant를 이용한 Local Server Setting 자동화 Shell Script
 
 - 설치 목록
 
-PHP 7.3
+PHP 7.4
 
 Nginx
 
